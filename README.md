@@ -2,9 +2,9 @@
 
 ## Summary
 
- - #### [Intents](#intents)
- - #### [Splash Screen](#splash-screen)
- - #### [Dialogs](#dialogs)
+ - #### [Intents](#intents-1)
+ - #### [Splash Screen](#splash-screen-1)
+ - #### [Dialogs](#dialogs-1)
 
 ## Intents
 - Go from FirstActivity to SecondActivity
